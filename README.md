@@ -1,4 +1,4 @@
-# Ineuron_Python_Assignment_2
+# Python Basics,conditional loops
 Solutions to assignment 2
 1.Introduction 
 This assignment will help you to consolidate the concepts learnt in the session. 
